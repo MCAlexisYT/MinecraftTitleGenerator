@@ -1,2 +1,2 @@
-# MinecraftTitleGenerator
-Not to be confused with a repository belonging to @ewanhowell5195 with the same name, this is for a Minecraft Dungeons-esque font for that exact repository.
+# Minecraft Dungeons Font for [ewanhowell5195/MinecraftTitleGenerator](github.com/ewanhowell5195/MinecraftTitleGenerator)
+The "Dungeons" part of the Minecraft Dungeons logo is now a work-in-progress font for the repository linked up above.
