@@ -1,0 +1,95 @@
+[
+  {
+    "id": "minecraft-five-bold",
+    "author": "Ewan Howell",
+    "width": 36,
+    "height": 36,
+    "border": 212,
+    "faces": [
+      [16, 48],
+      [82, 114],
+      [148, 154, 186, 194]
+    ],
+    "ends": [
+      [0, 16, 48, 64],
+      [66, 82, 114, 130],
+      [132, 148, 186, 194]
+    ],
+    "terminatorSpace": true
+  },
+  {
+    "id": "minecraft-five-bold-block",
+    "author": "Ewan Howell",
+    "width": 40,
+    "height": 52,
+    "border": 246,
+    "faces": [
+      [16, 64],
+      [98, 146],
+      [180, 228]
+    ],
+    "ends": [
+      [0, 16, 64, 80], 
+      [82, 98, 146, 162],
+      [164, 180, 228, 244]
+    ],
+    "autoBorder": true,
+    "forcedTerminators": [310, 180, 318, 180, 6, 48],
+    "overlay": true
+  },
+  {
+    "id": "minecraft-ten-outline",
+    "author": "Ewan Howell",
+    "width": 32,
+    "height": 60,
+    "border": 186,
+    "faces": [
+      [0, 60],
+      [62, 122],
+      [124, 184]
+    ],
+    "ends": [
+      [0, 0, 60, 60],
+      [62, 62, 122, 122],
+      [124, 124, 184, 184]
+    ],
+    "borderless": true,
+    "forcedTerminators": [254, 124, 264, 124, 8, 60]
+  },
+  {
+    "id": "minecraft-ten-cyrillic",
+    "name": "Minecraft Ten (Cyrillic)",
+    "author": "xllifi",
+    "example": [
+      "пример",
+      "текст😳"
+    ],
+    "width": 32,
+    "height": 44,
+    "border": 277,
+    "faces": [
+      [22, 62],
+      [108, 148],
+      [194, 205, 245, 253]
+    ],
+    "ends": [
+      [0, 22, 62, 84],
+      [86, 108, 148, 170],
+      [172, 194, 253, 275]
+    ],
+    "terminatorSpace": true
+  }
+  {
+    "id": "minecraft-dungeons",
+    "author": "MCAlexisYT",
+    "width": 32,
+    "height": 44,
+    "faces": [22, 62],
+    "ends": [
+      [0, 22, 62, 84],
+      [86, 108, 148, 170],
+      [172, 194, 253, 175]
+    ],
+    "terminatorSpace"; true
+  }
+]
