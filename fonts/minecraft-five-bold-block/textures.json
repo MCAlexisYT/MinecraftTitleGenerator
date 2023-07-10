@@ -1,0 +1,20 @@
+{
+  "textures": {
+    "flat": {
+      "author": "Ewan Howell"
+    },
+    "live": {
+      "author": "Ewan Howell"
+    }
+  },
+  "overlays": {
+    "highlights_bottom": {
+      "name": "Highlights (Bottom)",
+      "author": "Shrimpsnail"
+    },
+    "highlights_top": {
+      "name": "Highlights (Top)",
+      "author": "Shrimpsnail"
+    }
+  }
+}
