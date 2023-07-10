@@ -1,0 +1,16 @@
+{
+  "textures": {
+    "flat": {
+      "author": "MCAlexisYT"
+    },
+    "fired": {
+      "author": "MCAlexisYT",
+      "variants": {
+        "bevel_fired": {
+          "name": "Fired Bevel",
+          "author": "MCAlexisYT"
+        }
+      }
+    }
+  }
+}
