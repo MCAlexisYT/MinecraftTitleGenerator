@@ -12,10 +12,5 @@
         }
       }
     }
-  },
-  "overlays": {
-    "default": {
-      "author": "MCAlexisYT"
-    }
   }
 }
