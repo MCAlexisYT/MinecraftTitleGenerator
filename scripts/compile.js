@@ -97,7 +97,7 @@ for (const font of fonts) {
   const textures = fs.readdirSync(`../fonts/${font.id}/textures`).map(e => ["textures", e]).concat(fs.readdirSync(`../fonts/${font.id}/overlays`).map(e => ["overlays", e]))
   for (const file of textures) {
     if (file[1] === "overlay.png") continue
-
+console.log(`../fonts/${font.id}/${file[0]}/${file[1]}`)
     const img = await loadImage(`../fonts/${font.id}/${file[0]}/${file[1]}`)
     
     const canvas = new Canvas(img.width, img.height)
