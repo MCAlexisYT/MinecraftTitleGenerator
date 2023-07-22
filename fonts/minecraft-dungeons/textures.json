@@ -12,5 +12,10 @@
         }
       }
     }
+  },
+  "overlays": {
+    "bevel": {
+      "author": "MCAlexisYT"
+    }
   }
 }
