@@ -11,6 +11,13 @@
           "author": "MCAlexisYT"
         }
       }
+    },
+    "neon_glow": {
+      "category": "Neon",
+      "author": "MCAlexisYT",
+      "variants": {
+        "neon": {}
+      }
     }
   },
   "overlays": {
